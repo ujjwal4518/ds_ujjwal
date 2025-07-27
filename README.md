@@ -35,15 +35,6 @@ Goal is to uncover insights that can drive smarter, sentiment-aware trading stra
 
 📈 Visuals saved in the `outputs/` directory and embedded in the report.
 
----
-
-## ⚙️ How to Run
-
-Open the Colab notebook:
-
-[📎 Click to Open notebook_1.ipynb in Google Colab](#)
-
-> Ensure required packages like `pandas`, `matplotlib`, and `seaborn` are available.
 
 ---
 
